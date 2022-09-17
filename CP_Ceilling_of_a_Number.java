@@ -27,4 +27,4 @@ public class CP_Ceilling_of_a_Number {
         int ans = binarySearch1(arr, target);
         System.out.println(ans);
     }
-}
+}  
